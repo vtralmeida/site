@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Vitor Almeida"
+title                    : "Vítor Fernandes de Almeida"
 title_separator          : "-"
-name                     : &name "Vitor Almeida"
-description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Vítor Fernandes de Almeida"
+description              : &description "Personal website of Vítor Fernandes de Almeida, researcher at UPV & ITQ-CSIC."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://vtralmeida.github.io/site/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Vitor Almeida"
+  name             : "Vítor Fernandes de Almeida"
   pronouns         : # example: "she/her"  
-  bio              : "Santiago's Grisolía Fellow"
+  bio              : "Santiago's Grisolía Fellow<br>UPV & ITQ-CSIC"
   location         : "València, Spain"
   employer         : "Universitat Politècnica de València"
   uri              : # URL
